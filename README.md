@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey there 👋
+
+- I'm CTO at TomTom
+- I live in Berlin
+- I'm on [Twitter](https://twitter.com/ebowman) (for now)
+- I'm on [LinkedIn](https://www.linkedin.com/in/boboco/)
+- I'm moving towards <a rel="me" href="https://toot.community/@ebowman">Mastodon</a>
+- I used to write C++, Java, and Scala. I still try to once a year during [Advent of Code](https://adventofcode.com)
+- I'd like to learn Rust
+- I miss coding but I found I love both management and executive work as well
 
 <!--
 **ebowman/ebowman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
