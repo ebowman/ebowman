@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-- I'm CTO at TomTom
+- I'm CTO at King
 - I live in Berlin
 - I'm on [Twitter](https://twitter.com/ebowman) (for now)
 - I'm on [LinkedIn](https://www.linkedin.com/in/boboco/)
