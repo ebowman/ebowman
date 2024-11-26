@@ -2,7 +2,8 @@
 
 - I'm CTO at King
 - I live in Berlin
-- I'm on [Twitter](https://twitter.com/ebowman) (for now)
+- ~~I'm on [Twitter](https://twitter.com/ebowman) (for now)~~
+- I'm on [Bluesky](https://bsky.app/profile/ebowman.bsky.social)
 - I'm on [LinkedIn](https://www.linkedin.com/in/boboco/)
 - I'm moving towards <a rel="me" href="https://toot.community/@ebowman">Mastodon</a>
 - I used to write C++, Java, and Scala. I still try to once a year during [Advent of Code](https://adventofcode.com)
