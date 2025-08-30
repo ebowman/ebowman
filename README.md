@@ -1,26 +1,3 @@
 ### Hey there 👋
 
-- I'm CTO at King
-- I live in Berlin
-- ~~I'm on [Twitter](https://twitter.com/ebowman) (for now)~~
-- I'm on [Bluesky](https://bsky.app/profile/ebowman.bsky.social)
-- I'm on [LinkedIn](https://www.linkedin.com/in/boboco/)
-- I'm moving towards <a rel="me" href="https://toot.community/@ebowman">Mastodon</a>
-- I used to write C++, Java, and Scala. I still try to once a year during [Advent of Code](https://adventofcode.com)
-- I'd like to learn Rust
-- I miss coding but I found I love both management and executive work as well
-
-<!--
-**ebowman/ebowman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Former C/C++/Java/Scala developer turned CTO
